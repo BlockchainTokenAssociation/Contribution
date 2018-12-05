@@ -102,7 +102,7 @@ First time contributor to open source projects? Check out how to submit your fir
 Pull Requests are the way changes are made to the code, documentation and dependencies contained in the `VTF` repository. Make sure you have [git] installed locally.
 
 
-### **Setting up a branch **
+### **Setting up a branch**
 
 **Step 1: Fork and create a branch** [link](https://help.github.com/articles/fork-a-repo/)
 
@@ -123,7 +123,7 @@ As a best practice to keep your development environment as organized as possible
 ```
 
 
-### **Making code changes **
+### **Making code changes**
 
 **Step 2: Commit changes to your fork**
 
