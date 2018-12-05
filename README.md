@@ -75,17 +75,7 @@ If you identified a bug you can fix or want to make improvements, then fork `VTF
 
 Fork the project on GitHub and clone your fork locally.
 
-<!--[ADD CODE]-->
-
-```
-```
-
 As a best practice to keep your development environment as organized as possible, create local branches to work within. These should also be created directly off of the master branch.
-
-<!--[ADD CODE]-->
-
-```
-```
 
 
 ### **Making code changes**
@@ -96,11 +86,6 @@ After doing the changes to your branch, commit changes to your forked code.
 
 Keep your changes as logically grouped as possible within individual commits. There is no limit to the number of commits any single Pull Request may have, and many contributors find it easier to review changes that are split across multiple commits.
 
-<!--[ADD CODE]-->
-
-```
-```
-
 <!--[Any code style guide??]-->
 
 <!--[Any documentation style guide?]-->
@@ -109,16 +94,7 @@ Keep your changes as logically grouped as possible within individual commits. Th
 
 **Step 3: Add commit message**
 
-A good commit message should describe what changed and why. The message should follow the below guidelines:
-
-<!--[ADD ANY CONVENTION GUIDELINES]-->
-
-Sample complete commit message:
-
-<!--[ADD CODE]-->
-
-```
-```
+A good commit message should describe what changed and why. 
 
 If you are new to contributing to `VTF`, please try to do your best at conforming to these guidelines, but do not worry if you get something wrong. One of the existing contributors will help get things situated and the contributor landing the Pull Request will ensure that everything follows the project guidelines.
 
@@ -126,37 +102,13 @@ If you are new to contributing to `VTF`, please try to do your best at conformin
 
 As a best practice, once you have committed your changes, it is a good idea to use [git rebase] to synchronize your work with the main repository.
 
-<!--[ADD CODE]-->
-
-```
-```
-
 **Step 5: Test**
 
 All bug fixes and features should always come with tests. A guide <!--[ADD GUIDE FOR WRITING TESTS]--> has been provided to make the process easier.
 
-To run the tests on Unix / macOS:
-
-<!--[ADD CODE]-->
-
-```
-```
-
-And on Windows:
-
-<!--[ADD CODE]-->
-
-```
-```
-
 **Step 6: Push**
 
 Once you are sure your commits are ready to go, with passing tests, begin the process of opening a Pull Request by pushing your working branch to your fork on GitHub.
-
-<!--[ADD CODE]-->
-
-```
-```
 
 **Step 7: Open pull request**
 
@@ -164,14 +116,14 @@ From within GitHub, open a new Pull Request [[link](https://help.github.com/arti
 
 <!--[ADD TEMPLATE FOR PR SUBMISSION - IF APPLICABLE]-->
 
-Once opened, pull requests are reviewed by maintainers within [XXXX] days.
+Once opened, pull requests are reviewed by maintainers within 21 days.
 
 
 ### **Reviewing pull requests**
 
 **Step 8: Merging a Pull Request (maintainers only)**
 
-It's the work of the maintainer(s) to assess pull requests and merge them into the master. To be approved, pull requests need to be reviewed and pass [Type of Test] test run by a `VTF` maintainer. After review, if no objections are raised by [maintainers or other contributors], the pull request is merged.
+It's the work of the maintainer(s) to assess pull requests and merge them into the master. To be approved, pull requests need to be reviewed and pass tests run by a `VTF` maintainer. After review, if no objections are raised by maintainers or other contributors, the pull request is merged.
 
 A PR can only be merged into master by a maintainer if:
 
@@ -229,8 +181,6 @@ Found a non-security related bug? Here are some notes on how to report the bug s
 Feature requests are welcome. Take a moment to assess if your idea fits with the scope and aims of the `VTF` protocol. If you see fit, make a case to convince contributors of the merits of this feature. Please provide as much detail and context as possible.
 
 Below is a process to suggest new features:
-
-
 
 1.  Check if your feature suggestion has already been raised under the [issues tracker].
 1.  If no feature has been raised, open a new issue on our [issues tracker] on GitHub.
