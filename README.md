@@ -33,7 +33,7 @@ You have 9 H1 headings. You may want to use the "H1 -> H2" option to demote all 
 
 You are here to contribute with the `Verified Token Framework (VTF)` protocol? That's great. We really need people like you. Feel welcome and read the following sections in order to know how to submit contributions, ask questions and how to work on something.
 
-To be accepted as a `VTF` contributor you must also be a BTA member. You can join the BTA here.
+To be accepted as a `VTF` contributor you must also be a BTA member. You can join the BTA at https://www.blockchaintokenassociation.org/membership/.
 
 We are all working together to create common standards to help the future of the token ecosystem. By following the guidelines, you show respect to everyone developing and maintaining this open source project. In return, maintainers make their best to assessing submissions, addressing issues and finalising pull requests in a timely manner.
 
@@ -46,8 +46,6 @@ Please make sure you are welcoming and friendly in all of our spaces.
 
 There are many ways to contribute to the `VTF` protocol. Here are some of them:
 
-
-
 *   Writing bake-off code
 *   Providing test cases
 *   Writing tutorials for code submission
@@ -59,11 +57,9 @@ There are many ways to contribute to the `VTF` protocol. Here are some of them:
 We make sure contributions are reviewed in a timely manner and code changes are incorporated into the protocol through a merge process.
 
 
-### Contributions we are NOT looking for
-
-
 ### Getting in touch
 
+Email: contact@verifiedtokenframework.com
 <!--[ADD MAIL LIST AND OTHER CHANNELS]-->
 
 
@@ -82,7 +78,7 @@ We make sure contributions are reviewed in a timely manner and code changes are 
 # **Your First Code Contribution**
 
 
-Unsure where to begin contributing to `VTF` protocol? Start by looking at [beginner] and [help-needed] issues in the [`issue tracker`]:
+Unsure where to begin contributing to Verified Token Framework? Start by looking at [beginner] and [help-needed] issues in the [`issue tracker`](https://github.com/BlockchainTokenAssociation/Contribution/issues)
 
 **Beginner issues** - these are issues that should allow you to contribute to the repo with a smooth start. These should only require a few lines of code, followed by a couple of test cases.
 
@@ -102,7 +98,7 @@ First time contributor to open source projects? Check out how to submit your fir
 Pull Requests are the way changes are made to the code, documentation and dependencies contained in the `VTF` repository. Make sure you have [git] installed locally.
 
 
-### **Setting up a branch**
+### **Setting up a branch **
 
 **Step 1: Fork and create a branch** [link](https://help.github.com/articles/fork-a-repo/)
 
@@ -123,7 +119,7 @@ As a best practice to keep your development environment as organized as possible
 ```
 
 
-### **Making code changes**
+### **Making code changes **
 
 **Step 2: Commit changes to your fork**
 
@@ -202,7 +198,7 @@ From within GitHub, open a new Pull Request [[link](https://help.github.com/arti
 Once opened, pull requests are reviewed by maintainers within [XXXX] days.
 
 
-### **Reviewing pull requests**
+### **Reviewing pull requests **
 
 **Step 8: Merging a Pull Request (maintainers only)**
 
@@ -241,7 +237,7 @@ As a rule of thumb, changes are minor fixes if they do not introduce any new fun
 ### **Security bug**
 
 
-You must never report security related issues, vulnerabilities or bugs including sensitive information to the [`issue tracker`], or elsewhere in public. Instead, sensitive bugs must be sent by email to [XXXXX].
+You must never report security related issues, vulnerabilities or bugs including sensitive information to the [`issue tracker`], or elsewhere in public. Instead, sensitive bugs must be sent by email to contact@verifiedtokenframework.com.
 
 
 ### **Other bugs**
@@ -259,7 +255,7 @@ Found a non-security related bug? Here are some notes on how to report the bug s
 <!--[ADD BUG REPORT TEMPLATE - IF APPLICABLE - [example](https://github.com/atom/atom/blob/master/ISSUE_TEMPLATE.md)]-->
 
 
-# **How to suggest a feature**
+# **How to suggest a feature **
 
 Feature requests are welcome. Take a moment to assess if your idea fits with the scope and aims of the `VTF` protocol. If you see fit, make a case to convince contributors of the merits of this feature. Please provide as much detail and context as possible.
 
@@ -280,9 +276,9 @@ Be mindful that some features can be "substantial". These will likely require a 
 
 # **Code review process**
 
-The [maintainer(s)] team looks at Pull Requests on a regular basis in a [weekly/monthly] triage meeting [public?].
+The maintainer(s) team looks at Pull Requests on a regular basis in a monthly triage meeting.
 
-After review and triage, if required, requests for further clarification are posted on the repository [link]. After request has been provided by [maintainers], contributors are expected to come back within [timeframe].
+After review and triage, if required, requests for further clarification are posted on the repository. After a request has been provided by maintainers, contributors are expected to come back within two weeks.
 
 <!--[ADD TRIAGE PROCESS AND POLICY - [example](https://docs.readthedocs.io/en/latest/contribute.html#contributing-to-development)]-->
 
@@ -291,28 +287,11 @@ After review and triage, if required, requests for further clarification are pos
 
 # **Community**
 
-You can also chat with other contributors and maintainers on [slack channel]. For security-related conversations contact [email@]. We welcome you and invite you to participate.
+You can also chat with other contributors and maintainers on [slack channel]. For security-related conversations contact contact@verifiedtokenframework.com. We welcome you and invite you to participate.
 
 <!--[ADD LEVELS OF COMMUNITY CHANNELS - Troubleshooting, dev…- IF APPLICABLE]-->
 
-# **Contribution conventions**
 
-These sections are not necessary, but can help streamline the contributions you receive.
-
-
-### **Code style**
-
-<!--[ANYTHING TO ADD?]-->
-
-
-### **Issue labelling**
-
-<!--[ANYTHING TO ADD?]-->
-
-
-### **Commit message**
-
-<!--[ANYTHING TO ADD?]-->
 
 
 <!-- GD2md-html version 1.0β13 -->
