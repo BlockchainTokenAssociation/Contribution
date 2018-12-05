@@ -1,34 +1,3 @@
-
-<!----- Conversion time: 2.31 seconds.
-
-
-Using this Markdown file:
-
-1. Cut and paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* GD2md-html version 1.0β13
-* Thu Nov 29 2018 13:42:23 GMT-0800 (PST)
-* Source doc: https://docs.google.com/a/3months.com/open?id=1uqEpa4D-fcCt8umtLbW0ANzmUPrJJj8ixmBwtLQ9S0M
-
-WARNING:
-You have 9 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-<!--
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p>
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
--->
-
 # **Introduction**
 
 You are here to contribute with the `Verified Token Framework (VTF)` protocol? That's great. We really need people like you. Feel welcome and read the following sections in order to know how to submit contributions, ask questions and how to work on something.
@@ -98,7 +67,7 @@ First time contributor to open source projects? Check out how to submit your fir
 Pull Requests are the way changes are made to the code, documentation and dependencies contained in the `VTF` repository. Make sure you have [git] installed locally.
 
 
-### **Setting up a branch **
+### **Setting up a branch**
 
 **Step 1: Fork and create a branch** [link](https://help.github.com/articles/fork-a-repo/)
 
@@ -119,7 +88,7 @@ As a best practice to keep your development environment as organized as possible
 ```
 
 
-### **Making code changes **
+### **Making code changes**
 
 **Step 2: Commit changes to your fork**
 
@@ -198,7 +167,7 @@ From within GitHub, open a new Pull Request [[link](https://help.github.com/arti
 Once opened, pull requests are reviewed by maintainers within [XXXX] days.
 
 
-### **Reviewing pull requests **
+### **Reviewing pull requests**
 
 **Step 8: Merging a Pull Request (maintainers only)**
 
@@ -206,8 +175,8 @@ It's the work of the maintainer(s) to assess pull requests and merge them into t
 
 A PR can only be merged into master by a maintainer if:
 
-*   It is passing required test cases [CI].
-*   It has been approved by at least [XXX number of maintainers].
+*   It is passing required test cases.
+*   It has been approved by at least two maintainers.
 *   It has no requested changes.
 *   It is up to date with current master. Make sure it is synced
 
@@ -215,7 +184,7 @@ Any maintainer is allowed to merge a PR if all of these conditions are met.
 
 **Note on minor fixes**
 
-Small contributions, such as fixing spelling errors, can be submitted through a "light" pull request and review process. It only requires [XXX] maintainer for acceptance and merge.
+Small contributions, such as fixing spelling errors, can be submitted through a "light" pull request and review process. It only requires one maintainer for acceptance and merge.
 
 As a rule of thumb, changes are minor fixes if they do not introduce any new functionality or wider impact to the protocol. Some common minor fix examples include the following:
 
@@ -227,7 +196,7 @@ As a rule of thumb, changes are minor fixes if they do not introduce any new fun
 
 <!--[ADD ITEMS TO MINOR FIX LIST - IF APPLICABLE]-->
 
-### Release cycles
+<!--### Release cycles-->
 
 <!--*   Bake-offs - quarterly-->
 
@@ -255,7 +224,7 @@ Found a non-security related bug? Here are some notes on how to report the bug s
 <!--[ADD BUG REPORT TEMPLATE - IF APPLICABLE - [example](https://github.com/atom/atom/blob/master/ISSUE_TEMPLATE.md)]-->
 
 
-# **How to suggest a feature **
+# **How to suggest a feature**
 
 Feature requests are welcome. Take a moment to assess if your idea fits with the scope and aims of the `VTF` protocol. If you see fit, make a case to convince contributors of the merits of this feature. Please provide as much detail and context as possible.
 
@@ -291,7 +260,3 @@ You can also chat with other contributors and maintainers on [slack channel]. Fo
 
 <!--[ADD LEVELS OF COMMUNITY CHANNELS - Troubleshooting, dev…- IF APPLICABLE]-->
 
-
-
-
-<!-- GD2md-html version 1.0β13 -->
