@@ -202,7 +202,7 @@ From within GitHub, open a new Pull Request [[link](https://help.github.com/arti
 Once opened, pull requests are reviewed by maintainers within [XXXX] days.
 
 
-### **Reviewing pull requests **
+### **Reviewing pull requests**
 
 **Step 8: Merging a Pull Request (maintainers only)**
 
