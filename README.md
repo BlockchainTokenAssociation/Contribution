@@ -259,7 +259,7 @@ Found a non-security related bug? Here are some notes on how to report the bug s
 <!--[ADD BUG REPORT TEMPLATE - IF APPLICABLE - [example](https://github.com/atom/atom/blob/master/ISSUE_TEMPLATE.md)]-->
 
 
-# **How to suggest a feature **
+# **How to suggest a feature**
 
 Feature requests are welcome. Take a moment to assess if your idea fits with the scope and aims of the `VTF` protocol. If you see fit, make a case to convince contributors of the merits of this feature. Please provide as much detail and context as possible.
 
